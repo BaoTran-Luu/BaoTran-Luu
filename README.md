@@ -1,6 +1,5 @@
-# Hi, I'm Bao Tran-Luu 👋
-
-### Master's Student in Econometrics | Aspiring Data Analyst
+![Bao Tran-Luu — Econometrics, Data Analytics, Python](github_banner.png)
+I am also:
 
 📊 Interested in data analytics, applied statistics, and data-driven decision-making.
 
